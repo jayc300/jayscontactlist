@@ -1,0 +1,1 @@
+"SELECT COUNT(DISTINCT UniqueID) FROM contacts"
